@@ -29,3 +29,5 @@ Includes PPTX which was delivered in this R&D project
 	- Includes figures 9, 10, 11 & 12 from PPTX
 
 All folders with code includes a function_file where only the used function is included for easier access
+
+For any question or guide please contact me on jones.vind@hotmail.com
